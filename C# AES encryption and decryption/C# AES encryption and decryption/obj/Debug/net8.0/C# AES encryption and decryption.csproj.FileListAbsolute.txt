@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\bin\Debug\net8.0\C# AES encryption and decryption.exe
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\bin\Debug\net8.0\C# AES encryption and decryption.deps.json
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\bin\Debug\net8.0\C# AES encryption and decryption.runtimeconfig.json
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\bin\Debug\net8.0\C# AES encryption and decryption.dll
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\bin\Debug\net8.0\C# AES encryption and decryption.pdb
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.dll
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\refint\C# AES encryption and decryption.dll
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.pdb
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\C# AES encryption and decryption.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# AES encryption and decryption\C# AES encryption and decryption\obj\Debug\net8.0\ref\C# AES encryption and decryption.dll
