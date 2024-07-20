@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\bin\Debug\net8.0\Extension Method C#.exe
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\bin\Debug\net8.0\Extension Method C#.deps.json
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\bin\Debug\net8.0\Extension Method C#.runtimeconfig.json
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\bin\Debug\net8.0\Extension Method C#.dll
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\bin\Debug\net8.0\Extension Method C#.pdb
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.AssemblyInfo.cs
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.dll
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\refint\Extension Method C#.dll
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.pdb
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\Extension Method C#.genruntimeconfig.cache
+C:\Users\HP\source\repos\Extension Method C#\Extension Method C#\obj\Debug\net8.0\ref\Extension Method C#.dll
