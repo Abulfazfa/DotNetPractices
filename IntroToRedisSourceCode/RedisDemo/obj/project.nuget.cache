@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+2hjrdRM2iU=",
+  "dgSpecHash": "Eibyb1oDIXg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",

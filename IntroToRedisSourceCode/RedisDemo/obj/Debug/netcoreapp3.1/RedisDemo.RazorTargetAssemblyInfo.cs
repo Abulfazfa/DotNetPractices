@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisDemo")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1db252ecdb4016676555c2cb3541085046cb64")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisDemo.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

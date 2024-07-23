@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {}
+    "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {
+    "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
         "projectName": "RedisDemo",
-        "projectPath": "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\IntroToRedisSourceCode\\RedisDemo\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
