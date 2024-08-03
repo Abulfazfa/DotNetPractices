@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZrmwxSncMCBdMmijqxg5FnWwmFU7E6J2e5gMzkH3fMk=",
+  "Source": "AirlineRabbitMQ.API",
+  "BasePath": "_content/AirlineRabbitMQ.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
