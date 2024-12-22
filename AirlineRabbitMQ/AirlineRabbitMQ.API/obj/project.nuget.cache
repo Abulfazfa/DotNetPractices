@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+0qr8KsTWQ=",
+  "dgSpecHash": "utd9jaXJn20=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

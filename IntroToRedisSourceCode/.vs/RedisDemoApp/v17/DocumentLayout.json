@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\extensions\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\extensions\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\extensions\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\extensions\\distributedcacheextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E04BDEB-2312-4B9E-8BA6-87500177A5D7}|RedisDemo\\RedisDemo.csproj|c:\\users\\hp\\source\\dotnetpractices\\introtoredissourcecode\\redisdemo\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,18 +54,17 @@
               "RelativeToolTip": "RedisDemo\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:53:25.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:53:25.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FetchData.razor",
               "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\Pages\\FetchData.razor",
               "RelativeDocumentMoniker": "RedisDemo\\Pages\\FetchData.razor",
               "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\Pages\\FetchData.razor",
               "RelativeToolTip": "RedisDemo\\Pages\\FetchData.razor",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAABkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T07:53:04.086Z",
               "EditorCaption": ""
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "RedisDemo\\Startup.cs",
               "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\Startup.cs",
               "RelativeToolTip": "RedisDemo\\Startup.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T07:52:41.628Z",
               "EditorCaption": ""
@@ -98,13 +97,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DistributedCacheExtensions.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\Extensions\\DistributedCacheExtensions.cs",
               "RelativeDocumentMoniker": "RedisDemo\\Extensions\\DistributedCacheExtensions.cs",
               "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\IntroToRedisSourceCode\\RedisDemo\\Extensions\\DistributedCacheExtensions.cs",
               "RelativeToolTip": "RedisDemo\\Extensions\\DistributedCacheExtensions.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T17:20:00.427Z",
               "EditorCaption": ""

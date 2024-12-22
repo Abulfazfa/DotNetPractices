@@ -3,30 +3,30 @@ using RabbitMQ.Client;
 using System.Text;
 using System.Text.Json;
 
-
 namespace AirlineRabbitMQ.API.Services
 {
     public class MessageProducer : IMessageProducer
     {
+        private readonly RabbitMQConnectionManager _connectionManager;
+
+        // Inject the connection manager
+        public MessageProducer(RabbitMQConnectionManager connectionManager)
+        {
+            _connectionManager = connectionManager;
+        }
+
         public void SendingMessage<T>(T message)
         {
-            var factory = new ConnectionFactory()
-            {
-                HostName = "localhost",
-                UserName = "user",
-                Password = "password",
-                VirtualHost = "/"
-            };
+            // Use a channel from the shared connection
+            using var channel = _connectionManager.CreateChannel();
 
-            var conn = factory.CreateConnection();
-            using var channel = conn.CreateModel();
-
-            channel.QueueDeclare("booking", durable: true, exclusive: true);
+            // Ensure queue properties are consistent
+            channel.QueueDeclare("bookings", durable: true, exclusive: false, autoDelete: false);
 
             var jsonString = JsonSerializer.Serialize(message);
             var body = Encoding.UTF8.GetBytes(jsonString);
 
-            channel.BasicPublish("", "bookings", body: body);
+            channel.BasicPublish(exchange: "", routingKey: "bookings", body: body);
         }
     }
 }

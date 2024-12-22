@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49959B86-5778-4776-A43C-50F39143A2C2}|AirlineRabbitMQ.Ticket\\AirlineRabbitMQ.Ticket.csproj|c:\\users\\hp\\source\\repos\\airlinerabbitmq\\airlinerabbitmq.ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49959B86-5778-4776-A43C-50F39143A2C2}|AirlineRabbitMQ.Ticket\\AirlineRabbitMQ.Ticket.csproj|c:\\users\\hp\\source\\dotnetpractices\\airlinerabbitmq\\airlinerabbitmq.ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49959B86-5778-4776-A43C-50F39143A2C2}|AirlineRabbitMQ.Ticket\\AirlineRabbitMQ.Ticket.csproj|solutionrelative:airlinerabbitmq.ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|c:\\users\\hp\\source\\repos\\airlinerabbitmq\\airlinerabbitmq.api\\services\\messageproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|c:\\users\\hp\\source\\dotnetpractices\\airlinerabbitmq\\airlinerabbitmq.api\\services\\messageproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|solutionrelative:airlinerabbitmq.api\\services\\messageproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|c:\\users\\hp\\source\\dotnetpractices\\airlinerabbitmq\\airlinerabbitmq.api\\services\\rabbitmqconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|solutionrelative:airlinerabbitmq.api\\services\\rabbitmqconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|c:\\users\\hp\\source\\dotnetpractices\\airlinerabbitmq\\airlinerabbitmq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|solutionrelative:airlinerabbitmq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|c:\\users\\hp\\source\\dotnetpractices\\airlinerabbitmq\\airlinerabbitmq.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8E55DD-1C1D-4A72-87D6-7F90CC8B2B1F}|AirlineRabbitMQ.API\\AirlineRabbitMQ.API.csproj|solutionrelative:airlinerabbitmq.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\RabbitMQConnectionManager.cs",
+              "RelativeDocumentMoniker": "AirlineRabbitMQ.API\\Services\\RabbitMQConnectionManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\RabbitMQConnectionManager.cs",
+              "RelativeToolTip": "AirlineRabbitMQ.API\\Services\\RabbitMQConnectionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:19:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageProducer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
+              "RelativeDocumentMoniker": "AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
+              "RelativeToolTip": "AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:50:04.193Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -34,28 +72,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MessageProducer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
-              "RelativeDocumentMoniker": "AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
-              "RelativeToolTip": "AirlineRabbitMQ.API\\Services\\MessageProducer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineRabbitMQ.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Program.cs",
+              "RelativeToolTip": "AirlineRabbitMQ.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T20:07:20.998Z",
+              "WhenOpened": "2024-09-06T06:15:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "AirlineRabbitMQ.API\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "AirlineRabbitMQ.API\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:06:22.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\AirlineRabbitMQ.Ticket\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.Ticket\\Program.cs",
               "RelativeDocumentMoniker": "AirlineRabbitMQ.Ticket\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\AirlineRabbitMQ\\AirlineRabbitMQ.Ticket\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\DotNetPractices\\AirlineRabbitMQ\\AirlineRabbitMQ.Ticket\\Program.cs",
               "RelativeToolTip": "AirlineRabbitMQ.Ticket\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAATAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T20:06:48.593Z",
+              "WhenOpened": "2024-09-06T05:50:19.064Z",
               "EditorCaption": ""
             }
           ]

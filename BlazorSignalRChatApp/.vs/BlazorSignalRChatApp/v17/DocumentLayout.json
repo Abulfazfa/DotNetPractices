@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5401CD3-368A-4035-B492-C3168D1F5E6B}|BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\BlazorSignalRChatApp.Client.csproj|c:\\users\\hp\\source\\repos\\blazorsignalrchatapp\\blazorsignalrchatapp\\blazorsignalrchatapp.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5401CD3-368A-4035-B492-C3168D1F5E6B}|BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\BlazorSignalRChatApp.Client.csproj|solutionrelative:blazorsignalrchatapp\\blazorsignalrchatapp.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|c:\\users\\hp\\source\\repos\\blazorsignalrchatapp\\blazorsignalrchatapp\\blazorsignalrchatapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|solutionrelative:blazorsignalrchatapp\\blazorsignalrchatapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|c:\\users\\hp\\source\\repos\\blazorsignalrchatapp\\blazorsignalrchatapp\\blazorsignalrchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|solutionrelative:blazorsignalrchatapp\\blazorsignalrchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|c:\\users\\hp\\source\\repos\\blazorsignalrchatapp\\blazorsignalrchatapp\\blazorsignalrchatapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81D0984-CB8B-4B5D-AF6C-3ED556606502}|BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.csproj|solutionrelative:blazorsignalrchatapp\\blazorsignalrchatapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5401CD3-368A-4035-B492-C3168D1F5E6B}|BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\BlazorSignalRChatApp.Client.csproj|c:\\users\\hp\\source\\repos\\blazorsignalrchatapp\\blazorsignalrchatapp\\blazorsignalrchatapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5401CD3-368A-4035-B492-C3168D1F5E6B}|BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\BlazorSignalRChatApp.Client.csproj|solutionrelative:blazorsignalrchatapp\\blazorsignalrchatapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:14:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:12:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Program.cs",
+              "RelativeToolTip": "BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:11:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\Program.cs",
+              "RelativeToolTip": "BlazorSignalRChatApp\\BlazorSignalRChatApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:11:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\Pages\\Chat.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:09:50.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

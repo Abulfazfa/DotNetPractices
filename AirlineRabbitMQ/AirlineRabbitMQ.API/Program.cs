@@ -4,13 +4,15 @@ using AirlineRabbitMQ.API.Services.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IMessageProducer, MessageProducer>();
+// Register RabbitMQConnectionManager as a singleton
+builder.Services.AddSingleton<RabbitMQConnectionManager>();
+
+// Register MessageProducer as a singleton, using the connection manager
+builder.Services.AddSingleton<IMessageProducer, MessageProducer>();
 
 var app = builder.Build();
 
@@ -22,9 +24,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

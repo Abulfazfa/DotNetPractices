@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\obj\\Debug\\net8.0\\compressed\\lavprsbe7c.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlazorSignalRChatApp\\BlazorSignalRChatApp\\BlazorSignalRChatApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSignalRChatApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSignalRChatApp.Client.props",
+      "PackagePath": "build\\BlazorSignalRChatApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSignalRChatApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSignalRChatApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSignalRChatApp.Client.props",
+      "PackagePath": "buildTransitive\\BlazorSignalRChatApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
